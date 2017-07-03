@@ -1,1 +1,1 @@
-# openAL_Test
+OpenALをやったのでCocos2dx上でテスト。
